@@ -19,15 +19,15 @@ Building on these findings, future research will focus on multidimensional pover
 
 Working Paper
 ======
-*Corresponding Author
+_*Corresponding Author_
 
-1. Lin Cheng*, Daoud Adel, and Brandén Maria. “To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.” European Sociological Review. Final Round of Revise & Resubmit
+1. _Lin Cheng*_, Daoud Adel, and Brandén Maria. “To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.” European Sociological Review. Final Round of Revise & Resubmit
 
-2. Lin Cheng*, Peña M. Jose, and Daoud Adel. [“Assessing the Unobserved: Enhancing Causal Inference in Sociology with Sensitivity Analysis.”](https://arxiv.org/abs/2311.13410)
+2. _Lin Cheng*_, Peña M. Jose, and Daoud Adel. [“Assessing the Unobserved: Enhancing Causal Inference in Sociology with Sensitivity Analysis.”](https://arxiv.org/abs/2311.13410)
 
-3. Lin Cheng. “Homeownership and Unemployment: The Dynamics and Heterogeneity of Effects.” Submitted to Social Forces. Under Review
+3. _Lin Cheng_. “Homeownership and Unemployment: The Dynamics and Heterogeneity of Effects.” Submitted to Social Forces. Under Review
 
-4. Lin Cheng. “Occupational Flow in Sweden: The Dynamics of Networks and Homophily.”
+4. _Lin Cheng_. “Occupational Flow in Sweden: The Dynamics of Networks and Homophily.”
 
 
 News
