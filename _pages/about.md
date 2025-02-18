@@ -23,7 +23,7 @@ _*Corresponding Author_
 
 1. __Lin Cheng*__, Daoud Adel, and Brandén Maria. “To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.” _European Sociological Review. Final Round of Revise & Resubmit_
 
-2.__Lin Cheng*__, Peña M. Jose, and Daoud Adel. [“Assessing the Unobserved: Enhancing Causal Inference in Sociology with Sensitivity Analysis.”](https://arxiv.org/abs/2311.13410)
+2. __Lin Cheng*__, Peña M. Jose, and Daoud Adel. [“Assessing the Unobserved: Enhancing Causal Inference in Sociology with Sensitivity Analysis.”](https://arxiv.org/abs/2311.13410)
 
 3. __Lin Cheng__. “Homeownership and Unemployment: The Dynamics and Heterogeneity of Effects.” _Submitted to Social Forces. Under Review_
 
