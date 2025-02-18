@@ -21,13 +21,13 @@ Working Paper
 ======
 _*Corresponding Author_
 
-1. _Lin Cheng*_, Daoud Adel, and Brandén Maria. “To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.” European Sociological Review. Final Round of Revise & Resubmit
+1. __Lin Cheng*__, Daoud Adel, and Brandén Maria. “To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.” _European Sociological Review. Final Round of Revise & Resubmit_
 
-2. _Lin Cheng*_, Peña M. Jose, and Daoud Adel. [“Assessing the Unobserved: Enhancing Causal Inference in Sociology with Sensitivity Analysis.”](https://arxiv.org/abs/2311.13410)
+2.__Lin Cheng*__, Peña M. Jose, and Daoud Adel. [“Assessing the Unobserved: Enhancing Causal Inference in Sociology with Sensitivity Analysis.”](https://arxiv.org/abs/2311.13410)
 
-3. _Lin Cheng_. “Homeownership and Unemployment: The Dynamics and Heterogeneity of Effects.” Submitted to Social Forces. Under Review
+3. __Lin Cheng__. “Homeownership and Unemployment: The Dynamics and Heterogeneity of Effects.” _Submitted to Social Forces. Under Review_
 
-4. _Lin Cheng_. “Occupational Flow in Sweden: The Dynamics of Networks and Homophily.”
+4. __Lin Cheng__. “Occupational Flow in Sweden: The Dynamics of Networks and Homophily.”
 
 
 News
