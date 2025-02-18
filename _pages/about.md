@@ -1,19 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+In Feb. 2025, I defended my dissertation, [Navigating Stronger Evidence: Unobservable Processes and Causal Mechanisms in Social Trajectories](10.3384/9789180759731). A big thanks to my opponent (Jennie E. Brand) and the committee (Satu Helske, Lars Brännström, Anja Jørgensen, and Ben Wilson) for their time, insights, and valuable discussions. I earned my MS in Computational Social Science and my PhD in Analytical Sociology from Linköping University.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+
+Working Paper
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+*Corresponding Author
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. Lin Cheng*, Daoud Adel, and Brandén Maria. “To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.” European Sociological Review. Final Round of Revise & Resubmit
+
+2. Lin Cheng*, Peña M. Jose, and Daoud Adel. “Assessing the Unobserved: Enhancing Causal Inference in Sociology with Sensitivity Analysis.” https://arxiv.org/abs/2311.13410
+
+3. Lin Cheng. “Homeownership and Unemployment: The Dynamics and Heterogeneity of Effects.” Submitted to Social Forces. Under Review
+
+4. Lin Cheng. “Occupational Flow in Sweden: The Dynamics of Networks and Homophily.”
+
 
 Getting started
 ======
