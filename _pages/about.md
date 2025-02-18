@@ -12,7 +12,7 @@ My dissertation explores the integration of statistical causal inference and mec
 
 Empirically, using Swedish register data, the dissertation examines neighborhood effects on social assistance dependency, the protective role of homeownership against unemployment, and the impact of unmeasured confounders in sociological research.
 
-research Interests
+Research Interests
 ------
 Building on these findings, future research will focus on multidimensional poverty and inequality, expanding beyond economic measures to consider spatial and institutional dimensions. Interest in space and health is reinforced by the role of housing in economic stability and well-being. With plans to incorporate satellite imagery for analyzing neighborhood effects and spatial inequalities. Methodological challenges in causal inference drive further exploration in epistemology, methodology, and computational social science, while engagement with the Science of Science will examine knowledge production processes and their implications for social research.
 
