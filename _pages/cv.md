@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* __Ph.D Student in Analytical Sociology__, Institute for Analytical Sociology, Linköping University, 2025
+* __Ph.D in Analytical Sociology__, Institute for Analytical Sociology, Linköping University, 2025
 * __M.S. in Computational Social Science__, Institute for Analytical Sociology, Linköping University, 2020
 * __B.A. in Management__, Liaoning University, 2016
 
