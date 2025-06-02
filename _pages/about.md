@@ -21,7 +21,7 @@ Working Paper
 ======
 _*Corresponding Author_
 
-1. __Lin Cheng*__, Daoud Adel, and Brandén Maria. (2025). [“To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.”](https://doi.org/10.1093/esr/jcaf016) _European Sociological Review. 
+1. __Lin Cheng*__, Daoud Adel, and Brandén Maria. (2025). [“To What Extent Do Disadvantaged Neighborhoods Mediate Social Assistance Dependency? Evidence from Sweden.”](https://doi.org/10.1093/esr/jcaf016) _European Sociological Review_ 
 
 2. __Lin Cheng*__, Peña M. Jose, and Daoud Adel. [“Navigating Unmeasured Confounding in Quantitative Sociology: A Sensitivity Framework.”](https://arxiv.org/abs/2311.13410)
 
